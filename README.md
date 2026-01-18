@@ -1,5 +1,4 @@
 Assistant Énergétique par Radiestésie et Acupression
-Auteur : Bien-être et Géobiologie, Granville, France
 
 Présentation du Projet
 Cet outil est conçu pour soutenir les praticiens en radiestésie et en travail énergétique, en facilitant l’identification des points d’acupression selon les 12 méridiens de la Médecine Traditionnelle Chinoise (MTC). Il permet de localiser les points bloqués lors d’une séance, afin d’optimiser le travail énergétique.
@@ -15,14 +14,10 @@ Interface intuitive : Accès rapide aux informations sur chaque point via une ba
 Technologies Utilisées
 
 WebGL et Three.js : Pour la modélisation 3D des méridiens et des points.
-Compatibilité navigateurs : Fonctionne sur Google Chrome, Mozilla Firefox, Apple Safari, MS Internet Explorer 11 et MS Edge 13.
-Algorithme léger : Complexité linéaire pour une exécution fluide, même avec des images compressées.
-
 Fichiers Principaux
-README.md – Assistant Énergétique par Radiestésie et Acupression
 
-Fichier
-Description
+README.md – Assistant Énergétique par Radiestésie et Acupression
+Fichier Description
 
 acumaster.html
 Fichier principal à initialiser, contenant la barre latérale avec les informations sur les points.
@@ -47,14 +42,6 @@ Naviguer dans l’interface 3D pour visualiser les méridiens et les points.
 Utiliser les flèches et +/- pour ajuster la position des points si nécessaire.
 Identifier les points bloqués grâce à la radiestésie et les intégrer au travail énergétique de la séance.
 
-Compatibilité
-Testé et optimisé pour :
-
-Google Chrome (version 46 et ultérieures)
-Mozilla Firefox (version 42 et ultérieures)
-Apple Safari (version 9.0 et ultérieures)
-MS Internet Explorer 11
-MS Edge (version 13 et ultérieures)
 
 Auteur et Contact
 Bien-être et Géobiologie
